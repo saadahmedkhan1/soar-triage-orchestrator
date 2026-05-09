@@ -50,7 +50,7 @@
           "parameters": [
             {
               "name": "x-apikey",
-              "value": "7430f66ab4a050c8b4a33ef08dc635175ecc86c12b4df65074c54cb1d9f7bc6b"
+              "value": "paste your key here"
             }
           ]
         },
@@ -82,7 +82,7 @@
           "parameters": [
             {
               "name": "Key",
-              "value": "c00ba767edb098a4a5111bf4b8d5bdddc21fab997a571dfbc565bfb36c23242a62bdd142538ec5ac"
+              "value": "paste your key here"
             },
             {
               "name": "Accept",
