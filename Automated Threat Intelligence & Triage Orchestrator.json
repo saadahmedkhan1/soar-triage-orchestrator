@@ -12,17 +12,17 @@
         },
         "documentId": {
           "__rl": true,
-          "value": "1KvdbzFMB8tal-1zUN39aPHTU1NTMdEE24xApWJ320Os",
+          "value": "YOUR_GOOGLE_SHEET_ID",
           "mode": "list",
           "cachedResultName": "SOC Alert Queue - IP Triage",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1KvdbzFMB8tal-1zUN39aPHTU1NTMdEE24xApWJ320Os/edit?usp=drivesdk"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/YOUR_GOOGLE_SHEET_ID/edit?usp=drivesdk"
         },
         "sheetName": {
           "__rl": true,
           "value": "gid=0",
           "mode": "list",
           "cachedResultName": "Sheet1",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1KvdbzFMB8tal-1zUN39aPHTU1NTMdEE24xApWJ320Os/edit#gid=0"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/YOUR_GOOGLE_SHEET_ID/edit#gid=0"
         },
         "event": "rowAdded",
         "options": {}
@@ -157,17 +157,17 @@
         "operation": "update",
         "documentId": {
           "__rl": true,
-          "value": "1KvdbzFMB8tal-1zUN39aPHTU1NTMdEE24xApWJ320Os",
+          "value": "YOUR_GOOGLE_SHEET_ID",
           "mode": "list",
           "cachedResultName": "SOC Alert Queue - IP Triage",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1KvdbzFMB8tal-1zUN39aPHTU1NTMdEE24xApWJ320Os/edit?usp=drivesdk"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/YOUR_GOOGLE_SHEET_ID/edit?usp=drivesdk"
         },
         "sheetName": {
           "__rl": true,
           "value": "gid=0",
           "mode": "list",
           "cachedResultName": "Sheet1",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1KvdbzFMB8tal-1zUN39aPHTU1NTMdEE24xApWJ320Os/edit#gid=0"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/YOUR_GOOGLE_SHEET_ID/edit#gid=0"
         },
         "columns": {
           "mappingMode": "defineBelow",
